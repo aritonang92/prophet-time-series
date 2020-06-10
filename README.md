@@ -1,4 +1,4 @@
-# Memprediksi penggunaan rental sepeda di Washington D.C menggunakan (Data Tahun 2011 sd 2012)
+# Memprediksi penggunaan rental sepeda di Washington D.C (Data Tahun 2011 sd 2012)
 
 Repository ini mencoba menjelaskan bagaimana library 'Prophet' di R programming dapat memprediksi data deret-waktu (time series) di kemudian hari.
 
