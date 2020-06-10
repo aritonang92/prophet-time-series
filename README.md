@@ -6,4 +6,4 @@ Package 'Prophet' dikembangkan oleh tim data science Facebook dan dapat digunaka
 
 Pada repository ini penulis mencoba memprediksi jumlah pengguna rental sepeda di Washington DC, data dapat diunduh di Kaggle melalui link https://www.kaggle.com/marklvl/bike-sharing-dataset?select=day.csv.
 
-Pada data tersebut terdapat beberapa parameter pendukung seperti temperatur, kelembapan dan kecepatan angin dimana etiga variabel ini mempengaruhi jumlah pengguna sepeda dalam suatu hari. 
+Pada data tersebut terdapat beberapa parameter pendukung seperti temperatur, kelembapan dan kecepatan angin dimana ketiga variabel ini mempengaruhi jumlah pengguna sepeda dalam suatu hari. 
